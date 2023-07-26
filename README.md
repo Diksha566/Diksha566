@@ -48,6 +48,7 @@
 
 
 [![](https://raw.githubusercontent.com/Diksha566/Diksha566/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Diksha566/Diksha566/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Diksha566/Diksha566/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Diksha566/Diksha566/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Diksha566/Diksha566/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=diksha566&count_private=true&show_icons=true&include_all_commits=true&theme=react)         | <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=diksha566&theme=react" />              |
+| --------------------- | ------------------------- |
+
 
