@@ -1,4 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Diksha Jethwa </h1>
+<div>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2350CA10&size=45&center=true&vCenter=true&width=1000&height=60&lines=Hi!+I'm+Diksha.;A+Second+year+student+at+ITER-SOA-University.+;Full-Stack+Web+Developer.+;Enthusiast+to+learn+new+skills."/></p>
+</div>
 
 
 
