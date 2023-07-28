@@ -1,10 +1,10 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Diksha Jethwa </h1>
 
 
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+
 
 - B.Tech in Computer Science from the **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)**
 - 🌱 I’m currently learning **Web Development**
