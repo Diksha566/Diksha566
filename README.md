@@ -1,7 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Diksha Jethwa </h1>
 
 
-
+ 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
@@ -11,16 +11,20 @@
 - ⚡ Fun fact **I speak 5 language (Hindi, English, Gujrati, Bangali, Odia)**
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha566&label=Profile%20views&color=0e75b6&style=flat" alt="diksha566" /> </p>
 
-
- 
- [![Diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diksha566&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <h3 align="left">Connect with me:</h3>
-
-<a href="https://linkedin.com/in/dikshsa jethwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshsa jethwa" height="30" width="40" /></a>
-<a href="https://instagram.com/whoopsy_pie7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whoopsy_pie7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/diksha04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diksha04" height="30" width="40" /></a>
+<div align="left">
+<a href="https://linkedin.com/in/dikshsa jethwa" target="blank">
+<img src=https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/whoopsy_pie7" target="blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/diksha566" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.leetcode.com/diksha04" target="blank">
+<img src=https://img.shields.io/badge/LeetCode-%23000000.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+</a>
 
 
 ## 💻 Tech Stack:
@@ -46,13 +50,20 @@
 
 
 
+## 📈 Stats
+[![Diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diksha566&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 
 
-
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=diksha566&count_private=true&show_icons=true&include_all_commits=true&theme=react)         | <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=diksha566&theme=react" />              |
-| --------------------- | ------------------------- |
+<p align="center">
 
 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=diksha566&show_icons=true&theme=dracula" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=diksha566&theme=dracula" />
+ 
+ </p>
+
+
+ 
