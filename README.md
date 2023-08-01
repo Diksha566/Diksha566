@@ -12,13 +12,16 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha566&label=Profile%20views&color=0e75b6&style=flat" alt="diksha566" /> </p>
 
 
+ 
+ [![Diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diksha566&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
 <a href="https://linkedin.com/in/dikshsa jethwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshsa jethwa" height="30" width="40" /></a>
 <a href="https://instagram.com/whoopsy_pie7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whoopsy_pie7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/diksha04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diksha04" height="30" width="40" /></a>
-</p>
+
 
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -37,9 +40,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<h2 align="center">🏆 Github Trophies</h2>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=diksha566&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
+<h2 align="left">🏆 Github Trophies</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=diksha566&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -47,7 +50,8 @@
 
 
 
-[![](https://raw.githubusercontent.com/Diksha566/Diksha566/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
  ![Github Stats](https://github-readme-stats.vercel.app/api?username=diksha566&count_private=true&show_icons=true&include_all_commits=true&theme=react)         | <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=diksha566&theme=react" />              |
 | --------------------- | ------------------------- |
 
