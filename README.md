@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-<a href="https://linkedin.com/in/dikshsa-jethwa" target="blank">
+<a href="https://linkedin.com/in/dikshsa_jethwa" target="blank">
 <img src=https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/whoopsy_pie7" target="blank">
