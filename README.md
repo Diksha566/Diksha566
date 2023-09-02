@@ -4,12 +4,15 @@
  
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+ <div align='center'>
+ <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Diksha566&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+<br>
 
-- B.Tech in Computer Science from the **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)**
-- 🌱 I’m currently learning **Web Development**
-- 📫 How to reach me **dikshajethwa04@gamil.com**
-- ⚡ Fun fact **(if it works.. don't touch it)**
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha566&label=Profile%20views&color=0e75b6&style=flat" alt="diksha566" /> </p>
+<h3 align="center">
+  <img height ="100px" src="https://github.com/Kirti36/kirti36/blob/main/Coding%20Girl%20Animation.gif" /> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poiret+One&pause=1000&color=F3F7F5&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -40,6 +43,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+
 
 
  
