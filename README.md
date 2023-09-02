@@ -41,26 +41,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<h2 align="left">🏆 Github Trophies</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=diksha566&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-## 📈 Stats
-[![Diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diksha566&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
-<p align="center">
-
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=diksha566&show_icons=true&theme=dracula" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=diksha566&theme=dracula" />
- 
- </p>
-
 
  
