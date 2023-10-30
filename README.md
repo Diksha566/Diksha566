@@ -1,18 +1,28 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Diksha Jethwa </h1>
 
 
+
  
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
  <div align='center'>
+  
  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Diksha566&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br>
+
+
 
 <h3 align="center">
   <img height ="100px" src="https://github.com/Kirti36/kirti36/blob/main/Coding%20Girl%20Animation.gif" /> 
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poiret+One&pause=1000&color=F3F7F5&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -45,6 +55,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
+
+
 ## 📈 Stats
 
 <p align="center">
@@ -56,7 +68,7 @@
  </p>
 
 
-
+[![An image of @diksha566's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diksha566)](https://holopin.io/@diksha566)
 
 
  
