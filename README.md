@@ -42,7 +42,7 @@
 
 <p align="center">
 
-| <a href="https://github.com/diksha566/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api?username=diksha566&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt=" Diksha's github stats" /></a> | <a href="https://github.com/diksha566/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api/top-langs/?username=hariombalhara&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/diksha566/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api?username=diksha566&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt=" Diksha's github stats" /></a> | <a href="https://github.com/diksha566/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api/top-langs/?username=diksha566&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
