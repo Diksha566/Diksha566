@@ -1,18 +1,21 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Diksha Jethwa </h1>
+                                          
+<img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&size=41&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Hello%2C+Diksha+Here!" align="middle" alt="Hey, I'm Ritabrata, Welcome to my Profile! animated typed out">
+<img  src="assets/borderseperator.gif">
 
 
- 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 💻 Currently learning **Data Structure & Algorithms**.
+- ⚡  Solving questions on **Leetcode** , **GeeksForGeeks**.
+- 📫 Contact me : [dikshajethwa04@gmail.com]()
+- 🎵 Listening Songs.
 
- <div align='center'>
- <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Diksha566&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<br>
 
-<h3 align="center">
-  <img height ="100px" src="https://github.com/Kirti36/kirti36/blob/main/Coding%20Girl%20Animation.gif" /> 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poiret+One&pause=1000&color=F3F7F5&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
+[![An image of @diksha566's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diksha566)](https://holopin.io/@diksha566)
+
+
+
+## Profile Stats:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=diksha566&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -32,31 +35,27 @@
 <img src=https://img.shields.io/badge/codingninjas-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
 ## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/visual%20studio%20code-blue.svg?style=for-the-badge&logo=visual%20studio%20code)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📈 Stats
 
 <p align="center">
 
+| <a href="https://github.com/diksha566/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api?username=diksha566&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hariom Balhara's github stats" /></a> | <a href="https://github.com/diksha566/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api/top-langs/?username=hariombalhara&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=diksha566&show_icons=true&theme=dracula" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=diksha566&theme=dracula" />
+
+  [![Diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diksha566&area=true&bg_color=0E1720&line=A3BBF5&point=FF8F8F&color=99C0FF&area_color=5B7fD2&title_color=C2D9FF&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
+
  </p>
 
+ <div align='center'>
 
-[![An image of @diksha566's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diksha566)](https://holopin.io/@diksha566)
+<br>
 
-
- 
+<h3 align="center">
+  <img height ="100px" src="https://github.com/Kirti36/kirti36/blob/main/Coding%20Girl%20Animation.gif" /> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poiret+One&pause=1000&color=F3F7F5&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
