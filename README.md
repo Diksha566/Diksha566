@@ -8,7 +8,6 @@
 - 📫 Contact me : [dikshajethwa04@gmail.com]()
 - 🎵 Listening Songs.
 
-
 [![An image of @diksha566's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diksha566)](https://holopin.io/@diksha566)
 
 
@@ -44,10 +43,6 @@
 
 | <a href="https://github.com/diksha566/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api?username=diksha566&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt=" Diksha's github stats" /></a> | <a href="https://github.com/diksha566/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api/top-langs/?username=diksha566&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
-  [![Diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diksha566&area=true&bg_color=0E1720&line=A3BBF5&point=FF8F8F&color=99C0FF&area_color=5B7fD2&title_color=C2D9FF&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
 
  </p>
 
