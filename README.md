@@ -3,8 +3,7 @@
 <img  src="assets/borderseperator.gif">
 
 
-- 💻 Currently learning **Data Structure & Algorithms**.
-- ⚡  Solving questions on **Leetcode** , **GeeksForGeeks**.
+- 💻 Currently learning **Full stack web dev**.
 - 📫 Contact me : [dikshajethwa04@gmail.com]()
 - 🎵 Listening Songs.
 
