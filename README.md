@@ -27,7 +27,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 <a href="https://www.leetcode.com/diksha04" target="blank">
-<img src=https://img.shields.io/badge/LeetCode-%23000000.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/LeetCod0000.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.codingninjas.com/studio/profile/diksha566" target="blank">
 <img src=https://img.shields.io/badge/codingninjas-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
