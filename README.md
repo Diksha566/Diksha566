@@ -20,11 +20,8 @@
 <a href="https://www.linkedin.com/in/diksha-jethwa/" target="blank">
 <img src=https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/whoopsy_pie7" target="blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 </a>  
-<a href="https://www.codingninjas.com/studio/profile/diksha566" target="blank">
+<a href="https://codeforces.com/profile/diksha56" target="blank">
 <img src=https://img.shields.io/badge/codingninjas-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
 ## 💻 Tech Stack:
